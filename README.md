@@ -9,10 +9,10 @@ This is the updated code which was taken from PHP gurukul and the the made simpl
 
 
 
-credential for admin panel : username / email : Admin / shravan@gmail.com
+credential for admin panel : username / email : Admin / admin@gmail.com
 
 Password : Test @12345
 
-credential for user panel : email : reddyv399@gmail.com
+credential for user panel : email : vinith@gmail.com
 
 Password : Krishna@123
